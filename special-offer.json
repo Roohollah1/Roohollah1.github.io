@@ -1,0 +1,64 @@
+{
+  
+    "product":
+    [
+        {
+            "id": 1,
+            "product_name": "شلوار بچگانه",
+            "price": 900,
+            "off_price": 800,
+            "off_percent": 10,
+            "imgUrl": "https://dkstatics-public.digikala.com/digikala-products/5174370.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90"
+        },
+        {
+            "id": 2,
+            "product_name": "چراغ",
+            "price": 80,
+            "off_price": 40,
+            "off_percent": 50,
+            "imgUrl": "https://www.ikea.com/gb/en/images/products/arstid-table-lamp-nickel-plated-white__0609332_pe684455_s5.jpg"
+        },
+        {
+            "id": 3,
+            "product_name": "ساجق",
+            "price": 40,
+            "off_price": 20,
+            "off_percent": 50,
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt6hq50dTQJEWYI9yJZbN19fBEWMryXiCXFWZj4dyIyw&s"
+        },
+        {
+            "id": 4,
+            "product_name": "نمک",
+            "price": 50,
+            "off_price": 25,
+            "off_percent": 30,
+            "imgUrl": "https://www.thums.ac.ir/sites/default/files/pictures/news/thumbnails/14325588743.jpg"
+        },
+        {
+            "id": 5,
+            "product_name": "گوشکی",
+            "price": 100,
+            "off_price": 80,
+            "off_percent": 200,
+            "imgUrl": "pic6"
+        },
+        {
+            "id": 6,
+            "product_name": "گوشی",
+            "price": 10000,
+            "off_price": 8000,
+            "off_percent": 20,
+            "imgUrl": "https://media.leelam.af/Image/01f0b114-674a-4023-a1eb-9bb59c8f956f/20210220/false/false/1280/960/%DA%AF%D9%88%D8%B4%DA%A9%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D9%81%D9%88%D9%86.jpeg?noLogo=true"
+        },
+        {
+            "id": 7,
+            "product_name": "چوکی",
+            "price": 500,
+            "off_price": 400,
+            "off_percent": 10,
+            "imgUrl": "https://azindecoronline.com/wp-content/uploads/2020/12/6.jpg"
+        }
+
+    ]
+
+}
