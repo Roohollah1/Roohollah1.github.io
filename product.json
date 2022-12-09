@@ -1,0 +1,17 @@
+{
+    "products":
+    [
+        {
+            "imgUrl":"https://www.lg.com/us/images/tvs/md08002174/350.jpg"
+        },
+        {
+            "imgUrl": "https://www.tasvirezendegi.com/wp-content/uploads/2020/09/dress-42.jpg"
+        },
+        {
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS45MjBgYk_wemPWADOaqtvzfVCjtBeYZAbKg&usqp=CAU"
+        },
+        {
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc51ruvHQ4AXvCJxEICkoilO9w7qjRKAkHjg&usqp=CAU"
+        }
+    ]
+}
